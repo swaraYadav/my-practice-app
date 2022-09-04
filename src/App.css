@@ -1,0 +1,15 @@
+.link{
+  position: fixed;
+  width: 100%;
+  background-color: grey;
+  padding:15px;
+}
+.link a{
+  color:white;
+  text-decoration: none;
+  padding:15px;
+}
+
+.pageBody{
+  padding: 60px 60px 0px 60px;
+}

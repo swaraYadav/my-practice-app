@@ -1,0 +1,22 @@
+.productlist{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product{
+    width: 200px;
+    height: 380px;
+    margin: 5px;
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.product img{
+    width: 200px;
+    height: 300px;
+}
+
+.center{
+    text-align: center;
+}
